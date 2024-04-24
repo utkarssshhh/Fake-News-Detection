@@ -1,2 +1,2 @@
-# HA HA HA
-PROJECT HAHAHA
+# Fake News Detection 
+Deep Learning Project
